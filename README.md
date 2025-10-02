@@ -22,7 +22,7 @@
 
 ### 👨‍💻 Sobre Mim
 <p>
-  Atualmente trabalho como <b>Gerenciador de Sistemas</b>, com foco em otimizar e garantir a performance de aplicações. Estou em transição de carreira para me tornar um <b>Desenvolvedor Full Stack</b>, aplicando minha paixão por resolver problemas através do código.
+  Atualmente trabalho como <b>Analista de Sistemas</b>, com foco em otimizar e garantir a performance de aplicações. Estou em transição de carreira para me tornar um <b>Desenvolvedor Full Stack</b>, aplicando minha paixão por resolver problemas através do código.
 </p>
 <p>
   💡 Tenho grande interesse em arquitetura de software, cloud computing e automação.
