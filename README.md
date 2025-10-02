@@ -1,60 +1,87 @@
-<!-- Banner ou GIF de destaque opcional -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding Gif"/>
-</p>
+<div align="center">
+    
+  <h1>
+    Olá, eu sou o Silas! 👋
+  </h1>
+  <p>
+    <b>Desenvolvedor Full Stack</b> | <b>Analista de Sistemas</b> | Apaixonado por Tecnologia 🚀
+  </p>
 
-<h1 align="center">
-  Olá, eu sou o Silas! <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="30"/>
-</h1>
+  <div style="display: inline_block"><br>
+    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+    <img align="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+    <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tecnologia-💻-informational?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Gerenciador%20de%20Sistemas-success?style=for-the-badge"/>
-</p>
-
----
-
-🌟 **Sobre mim**
-
-- 👨‍💻 Trabalho atualmente como **gerenciador de sistemas**
-- 🚀 Desenvolvedor **full stack** em início de carreira
-- 🤖 Fã de **tecnologia** e inovação
+</div>
 
 ---
 
-<h3>🚀 Linguagens e Tecnologias</h3>
-
-<p align="left" style="display: flex; gap: 10px;">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="sqlserver" width="40" height="40" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/>
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="tux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="azure" width="40" height="40" />
-
-</p>
-
----
-
-<h3>🌐 Vamos conectar?</h3>
-
+### 👨‍💻 Sobre Mim
 <p>
+  Atualmente trabalho como <b>Gerenciador de Sistemas</b>, com foco em otimizar e garantir a performance de aplicações. Estou em transição de carreira para me tornar um <b>Desenvolvedor Full Stack</b>, aplicando minha paixão por resolver problemas através do código.
+</p>
+<p>
+  💡 Tenho grande interesse em arquitetura de software, cloud computing e automação.
+</p>
+
+---
+
+### 🛠️ Minhas Ferramentas e Tecnologias
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  
+  <div align="center">
+    <h4>Backend</h4>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="45" height="45" />
+  </div>
+
+  <div align="center">
+    <h4>Frontend</h4>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="45" height="45"/>
+  </div>
+  
+  <div align="center">
+    <h4>Banco de Dados</h4>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="sqlserver" width="45" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+  </div>
+
+  <div align="center">
+    <h4>Cloud & DevOps</h4>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="tux" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="azure" width="45" height="45" />
+  </div>
+  
+</div>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SILAS-JOB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SILAS-JOB&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+### 📫 Conecte-se Comigo!
+<p align="center">
   <a href="https://www.linkedin.com/in/luiseduardoti/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-
-<!-- Footer opcional -->
-<p align="center">
-  <sub>✨ Obrigado por visitar meu perfil! ✨</sub>
+  &nbsp;
+  <a href="tiilas777@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
