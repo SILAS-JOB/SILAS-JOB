@@ -4,7 +4,7 @@
     Olá, eu sou o Silas! 👋
   </h1>
   <p>
-    <b>Desenvolvedor Full Stack</b> | <b>Analista de Sistemas</b> | Apaixonado por Tecnologia 🚀
+    <b>Desenvolvedor Full Stack</b> | <b>Analista Desenvolvedor</b> | Apaixonado por Tecnologia 🚀
   </p>
 
   <div style="display: inline_block"><br>
@@ -22,7 +22,7 @@
 
 ### 👨‍💻 Sobre Mim
 <p>
-  Atualmente trabalho como <b>Analista de Sistemas</b>, com foco em otimizar e garantir a performance de aplicações. Estou em transição de carreira para me tornar um <b>Desenvolvedor Full Stack</b>, aplicando minha paixão por resolver problemas através do código.
+  Atualmente trabalho como <b>Analista Desenvolvedor</b>, com foco em desenvolver e garantir a performance de aplicações.
 </p>
 <p>
   💡 Tenho grande interesse em arquitetura de software, cloud computing e automação.
